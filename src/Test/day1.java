@@ -14,6 +14,7 @@ public class day1 {
 	@Test
 	public void demo2() {
 		System.out.println("bye");
+		System.out.println("Hi");
 	}
 	
 
