@@ -15,6 +15,10 @@ public class day1 {
 	public void demo2() {
 		System.out.println("bye");
 		System.out.println("Hi");
+	}@Test
+	public void demo3() {
+		System.out.println("Hi");
+		System.out.println("Bye");
 	}
 	
 
