@@ -8,5 +8,9 @@ public class day2 {
 	public void demo() {
 		System.out.println("good");
 	}
+	@Test
+	public void demo1() {
+		System.out.println("very good");
+	}
 	
 }
